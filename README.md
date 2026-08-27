@@ -1,13 +1,9 @@
-Bilkul. Agar ye **TechPock GitHub Organization profile README** hai, to personal profile jaisi basic list ke bajaye thora polished organization-style layout better lagega.
-
-Isay exactly `.github/profile/README.md` mein rakh sakte ho:
-
 <h1 align="center">TechPock</h1>
 
 <h3 align="center">Building Modern Digital Solutions for Businesses & Startups</h3>
 
 <p align="center">
-  Web Development • Mobile Development • WordPress • UI/UX
+  Web Development • Mobile Development • WordPress
 </p>
 
 <p align="center">
@@ -31,7 +27,6 @@ We turn ideas into functional digital products through thoughtful design, clean 
 * 🟢 **MERN Stack Development**
 * 📱 **React Native Mobile Applications**
 * 📝 **WordPress Development**
-* 🎨 **UI/UX Design**
 
 ---
 
@@ -78,16 +73,6 @@ We focus on building products that are:
 
 ---
 
-## 🌱 Open Source
-
-We believe developers grow faster when they **build, share, and contribute**.
-
-Our repositories include projects, experiments, reusable components, and open-source contributions.
-
-Feel free to explore our repositories, report issues, suggest improvements, or contribute.
-
----
-
 ## 🤝 Let's Work Together
 
 Have an idea for a website, web application, mobile app, or digital product?
@@ -105,5 +90,5 @@ Have an idea for a website, web application, mobile app, or digital product?
 <h3 align="center">TechPock</h3>
 
 <p align="center">
-  Modern Web • Mobile • WordPress • UI/UX
+  Modern Web • Mobile • WordPress
 </p>
